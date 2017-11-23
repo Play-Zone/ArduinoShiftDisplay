@@ -13,8 +13,13 @@
   in all copies or substantial portions of the Software.
 *************************************************************************/
 
+// SDI
 #define DATA 8
+
+// SCLK
 #define CLK 9
+
+// LOAD
 #define RCLK 7
 
 void setup() {
